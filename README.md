@@ -27,8 +27,8 @@
 Скриншоты:
 
 
-<img src="Screenshots/ScreenshotAllDeliveries.jpg" width="200" eight="50" />
+<img src="Screenshots/ScreenshotAllDeliveries.jpg" width="1200" height="400" />
 
-<img src="Screenshots/ScreenshotCreate.jpg" width="200" eight="50" />
+<img src="Screenshots/ScreenshotCreate.jpg" width="1200" height="400" />
 
-<img src="Screenshots/ScreenshotDetaile.jpg" width="200" eight="50" />
+<img src="Screenshots/ScreenshotDetaile.jpg" width="1200" height="400" />
