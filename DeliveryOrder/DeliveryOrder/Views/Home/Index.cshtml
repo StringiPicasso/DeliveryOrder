@@ -7,7 +7,6 @@
         <thead>
             <tr>
                 <th>Номер заказа</th>
-                <th>Отправитель</th>
                 <th>Город отправителя</th>
                 <th>Адрес отправителя</th>
                 <th>Город получателя</th>
@@ -20,18 +19,14 @@
             @foreach (var delivery in Model)
             {
                 <tr>
-                    <td>@delivery.Id</td>
-                    <td><a href="@Url.Action("Details", "Delivery", new { id = delivery.Id })">@delivery.Id</a></td>
-                    <td>@delivery.Sender</td>
+                    @* <td>@delivery.Id</td> *@
+                    <td><a href="@Url.Action("Details", "Home", new { id = delivery.Id })">@delivery.Id</a></td>
                     <td>@delivery.SenderCity</td>
                     <td>@delivery.SenderAddress</td>
                     <td>@delivery.RecipientCity</td>
                     <td>@delivery.RecipientAddress</td>
                     <td>@delivery.Weight</td>
-                    <td>
-                        <a href="Details/@delivery.Id">Просмотреть</a>
-                    </td>
-                    @* <td>@delivery.PickupDate.ToShortDateString()</td> *@
+                    <td>@delivery.PickupDate.ToShortDateString()</td>
                 </tr>
             }
         </tbody>

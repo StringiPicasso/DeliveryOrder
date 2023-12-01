@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1ZGUl4vtH4jljx4pPtjETfvyeJtF/1NP9sx5tmKX5vo=",
+  "Hash": "PoCr+muCbLU4XgX+IyJuuhGEZCav/9JO9vVC8yp+j+g=",
   "Source": "DeliveryOrder",
   "BasePath": "_content/DeliveryOrder",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Анастасия Еремина\\Documents\\GitHubTests\\DeliveryOrder\\DeliveryOrder\\DeliveryOrder\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DeliveryOrder.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Анастасия Еремина\\Documents\\GitHubTests\\DeliveryOrder\\DeliveryOrder\\DeliveryOrder\\wwwroot\\css\\bootsWatchTheme.css",
+      "SourceId": "DeliveryOrder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Анастасия Еремина\\Documents\\GitHubTests\\DeliveryOrder\\DeliveryOrder\\DeliveryOrder\\wwwroot\\",
+      "BasePath": "_content/DeliveryOrder",
+      "RelativePath": "css/bootsWatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootsWatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\Анастасия Еремина\\Documents\\GitHubTests\\DeliveryOrder\\DeliveryOrder\\DeliveryOrder\\wwwroot\\css\\site.css",

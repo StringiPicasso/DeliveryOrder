@@ -8,9 +8,6 @@ namespace DeliveryOrder.Models
         public int Id { get; set; }
 
         [Required]
-        public string Sender { get; set; } = "Anonim";
-
-        [Required]
         public string SenderCity { get; set; }
 
         [Required]
@@ -23,7 +20,7 @@ namespace DeliveryOrder.Models
         public string RecipientAddress { get; set; }
 
         [Required]
-        public string Weight { get; set; }
+        public double Weight { get; set; }
        
         [Required]
         public DateTime PickupDate { get; set; }

@@ -60,15 +60,6 @@ namespace DeliveryOrder.Controllers
             }
 
             return View(delivery);
-
-            //var delivery = _db.Deliveries.FirstOrDefault(d => d.Id == id);
-
-            //if (delivery == null)
-            //{
-            //    return NotFound();
-            //}
-
-            //return View(delivery);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\DeliveryOrder.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Анастасия Еремина\\Documents\\GitHubTests\\DeliveryOrder\\DeliveryOrder\\DeliveryOrder\\wwwroot\\css\\bootsWatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootsWatchTheme.css"
+    },
+    {
       "Id": "C:\\Users\\Анастасия Еремина\\Documents\\GitHubTests\\DeliveryOrder\\DeliveryOrder\\DeliveryOrder\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
